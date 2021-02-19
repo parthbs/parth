@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="162" viewBox="0 0 116 162">
+  <g id="_2_Triangle" data-name="2 Triangle" transform="translate(-97 -503)">
+    <g id="Path_16" data-name="Path 16" transform="translate(194 531) rotate(90)" fill="rgba(77,122,255,0.85)">
+      <path d="M 129.2348022460938 94.5 L 4.765195369720459 94.5 L 67 4.39886474609375 L 129.2348022460938 94.5 Z" stroke="none"/>
+      <path d="M 67 8.797752380371094 L 9.530403137207031 92 L 124.469596862793 92 L 67 8.797752380371094 M 67 0 L 134 97 L 0 97 L 67 0 Z" stroke="none" fill="#f2f2f9"/>
+    </g>
+    <g id="Path_2" data-name="Path 2" transform="translate(213 503) rotate(90)" fill="#d3deff">
+      <path d="M 129.2348022460938 94.5 L 4.765195369720459 94.5 L 67 4.398868560791016 L 129.2348022460938 94.5 Z" stroke="none"/>
+      <path d="M 67 8.797752380371094 L 9.530403137207031 92 L 124.469596862793 92 L 67 8.797752380371094 M 67 7.62939453125e-06 L 134 97 L 0 97 L 67 7.62939453125e-06 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>
